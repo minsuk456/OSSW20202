@@ -1,1 +1,2 @@
-Creation of the repository.
+1. Creation of the repository.
+2. Second commit.
