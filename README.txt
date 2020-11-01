@@ -4,4 +4,4 @@
 4. 4th commit. Tags' name should be "Vn.0".
 5. created new branch "br1".
 6. created another branch "br2".
-7. created 3rd branch "br5".
+7. created 3rd branch "br3".
